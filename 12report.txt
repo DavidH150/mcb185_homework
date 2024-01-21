@@ -1,0 +1,12 @@
+Sun Jan 21 10:22:48 PST 2024
+user: Owner
+home: /home/Owner
+pwd: /home/Owner/Code/mcb185_homework
+CYGWIN_NT-10.0-22000 bub 3.4.10-1.x86_64 2023-11-29 12:12 UTC x86_64 Cygwin
+Python 3.9.16
+/home/Owner/Code
+/home/Owner/Code/MCB185
+/home/Owner/Code/MCB185/.git
+/home/Owner/Code/MCB185/data
+/home/Owner/Code/mcb185_homework
+/home/Owner/Code/mcb185_homework/.git
